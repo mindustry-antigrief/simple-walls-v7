@@ -1,0 +1,11 @@
+name: Gigantic door
+description: A wall that can be opened and closed.
+type: Door
+health: 6400
+size: 4
+requirements: [
+ titanium/96
+ silicon/64
+]
+category: defense
+research: door-huge

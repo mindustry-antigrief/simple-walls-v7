@@ -1,0 +1,27 @@
+name: Huge surge wall
+
+description: Protects structures from enemy projectiles, periodically releasing electric arcs upon contact.
+
+type: Wall
+
+health: 8280
+
+size: 3
+
+lightningChance: 0.05
+
+lightningDamage: 20
+
+lightningSound: spark
+
+lightningColor: FFF8AD
+
+lightningLength: 17
+
+requirements: [
+ surge-alloy/54
+]
+
+category: defense
+
+research: surge-wall-large

@@ -1,0 +1,8 @@
+name: "Simple walls"
+ 
+author: "Benom"
+ 
+description: "A mod that contain some [green]walls."
+version: "1.0"
+
+minGameVersion: "136"
